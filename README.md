@@ -7,7 +7,7 @@ python -m venv venv
         venv\Scripts\activate  -- windows
         source venv/bin/activate  -- Linux
 
-(install tghe pacakages in the given sequence)
+(install the pacakages in the given sequence)
 pip install streamlit==1.40.2
 pip install astropy==6.0.1
 pip install numpy==1.26.4
